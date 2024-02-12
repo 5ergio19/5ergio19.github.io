@@ -509,7 +509,7 @@ section {
   padding: 30px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  min-width: 27rem;
+  min-width: 20rem;
   margin: auto;
 }
 
